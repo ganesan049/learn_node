@@ -1,0 +1,49 @@
+ Tue Sep 22 2020 21:23:07 GMT+0530 (India Standard Time) undefined Tue Sep 22 2020 21:23:47 GMT+0530 (India Standard Time) undefined Tue Sep 22 2020 21:24:25 GMT+0530 (India Standard Time) undefined Tue Sep 22 2020 21:24:44 GMT+0530 (India Standard Time) undefined Tue Sep 22 2020 21:25:04 GMT+0530 (India Standard Time) undefined Tue Sep 22 2020 21:25:39 GMT+0530 (India Standard Time) undefinedError: user unable to create
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\servcies\user.js:19:25
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\dbmodule\userDb.js:22:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)undefinedError: user is not present
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\servcies\user.js:34:25
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\dbmodule\userDb.js:7:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)Error: user is not present
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\servcies\user.js:34:25
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\dbmodule\userDb.js:7:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)Error: user is not present
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\servcies\user.js:34:25
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\dbmodule\userDb.js:7:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)Error: user is not present
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\servcies\user.js:34:25
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\dbmodule\userDb.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)Error: user unable to create
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\servcies\user.js:19:25
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\dbmodule\userDb.js:22:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)Error: user is already present
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\servcies\user.js:19:25
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\dbmodule\userDb.js:22:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)Error: user is already present
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\servcies\user.js:16:25
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\dbmodule\userDb.js:21:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)Error: user is already present
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\servcies\user.js:16:25
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\dbmodule\userDb.js:30:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)Error: user is not present
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\servcies\user.js:29:25
+    at C:\Users\ganesan.ramesh\Desktop\learn_node\builded_learn\dbmodule\userDb.js:7:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
